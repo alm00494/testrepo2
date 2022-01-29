@@ -3,6 +3,7 @@ package worm;
 public class WormDriver {
 
 	public static void main(String[] args) {
+		//comment to confirm github issue working
 		
 		Worm worm1 = new Worm("Jim", "Earthworm", "brown", 20, 11, 100, 10);
 		Worm worm2 = new Worm("Mike", "Sandworm", "tan", 40000, 1200000, 1000, 1200000);
