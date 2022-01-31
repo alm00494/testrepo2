@@ -5,6 +5,8 @@ public class Worm {
 	private String name, species, colour;
 	private int length, age, depth, weight;
 	//comment added to test
+
+	//changes made in intellij
 	
 	public Worm(String name, String species, String colour, int length, int age, int depth, int weight) {
 		this.name = name;
